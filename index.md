@@ -8,7 +8,7 @@ Simple p5js sketch in 16 hours that demonstrates Ellipses.\
 ![p5js ellipses website screenshot](/docs/assets/p5jsEllipsesWebsite.png)
 
 ## Anime Quotes website  
-... anime quotes website.
+... anime quotes website.  
 [website](https://clod44.github.io/html-anime-quotest-test)
 [source code](https://github.com/clod44/html-anime-quotest-test)
 ![anime quotes website screenshot](/docs/assets/htmlAnimeQuotesTestScreenshot.png)
