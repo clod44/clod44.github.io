@@ -1,6 +1,13 @@
 # My poor projects  
 here I save my projects while trying to improve myself. I'm still a beginner at CSS so most of them look ugly and unoptimized on mobile.
 
+
+## tfjs polynomial regression
+Math meth idk. this guy is trying to find the best values to create a polinom that crosses over user inputted points. very cool tho  
+[live demo](https://clod44.github.io/tfjs-polynomial-regression/)\
+[source code](https://github.com/clod44/tfjs-polynomial-regression)\
+![tfjs polynomial regression sketch screenshot](/docs/assets/tfjsPolynomialRegressionScreenshot.png)
+
 ## Evolution on act
 Simple "survival of the survivor" ecosystem simulation.\
 [live demo](https://clod44.github.io/evolutionary-steering/)\
